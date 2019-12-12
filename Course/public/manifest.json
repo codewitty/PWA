@@ -1,3 +1,9 @@
 {
-  
+	"name": "Instagram as a web app"
+	"short_name": "PWAgram"
+	"icons": [
+		{
+			"src": "/src/images/icons/app-icon-48x48.png"
+		}
+	]
 }
