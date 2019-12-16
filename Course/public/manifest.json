@@ -21,7 +21,7 @@
 			"src": "/src/images/icons/app-icon-48x48.png",
 			"type": "image/png",
 			"sizes": "512x512"
-		},
+		}
 	]
 		"start_url": "/index.html",
 		"scope": ".",
