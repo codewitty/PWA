@@ -22,12 +22,15 @@
 			"type": "image/png",
 			"sizes": "512x512"
 		},
+	]
 		"start_url": "/index.html",
 		"scope": ".",
 		"display": "standalone",
 		"orientation": "portrait-primary",
 		"background_color": "#fffh",
 		"theme_color": "#3f51b5h",
+		"description": "description",
+		"dir": "ltr",
+		"lang": "en-US"
 
-	]
 }
